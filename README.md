@@ -17,3 +17,4 @@ A simple packet sniffer built using raw sockets in Python. It captures Ethernet 
 git clone https://github.com/yourusername/packet-sniffer-python.git
 cd packet-sniffer-python
 sudo python3 sniffer.py
+ 
